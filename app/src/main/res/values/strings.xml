@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather in cities</string>
+    <string name="name_of_city">Name of City</string>
+    <string name="weather">Weather</string>
+    <string name="humidity1">Humidity</string>
+    <string name="temperature1">Temperature</string>
+    <string name="wind_speed1">Wind_speed</string>
+    <string name="edit_text_hint">Введите название города</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+</resources>
